@@ -8,6 +8,13 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/tx.js"
+            "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+
+
+      "ext": {"danmu": true },
+
+      "timeout": 10
+
         },
            {
 
